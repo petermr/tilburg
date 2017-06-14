@@ -13,7 +13,7 @@ A funnel plot is expected to have many attributes, some MUST (mandatory), some S
 | | Footer | |
 | | | |
 
-The `Header` and `Footer` usually contain information *about* the plot, while the `\*\_axis` and `Plot_body` components comprise the plot itself. Often the semantics of the `\*\_axis` blocks and the `Plot_box` is described in natural language in the `Header/Footer`. 
+The `Header` and `Footer` usually contain information *about* the plot, while the `*_axis` and `Plot_body` components comprise the plot itself. Often the semantics of the `*_axis` blocks and the `Plot_box` is described in natural language in the `Header/Footer`. 
 
 
 
